@@ -1,26 +1,10 @@
 Bootstrap 4 Portfolio Theme for Developers
 
-Theme name:
-=======================================================================
-Developer
-
-Theme version:
-=======================================================================
-v2.1
-
-Release Date:
-=======================================================================
-14 March 2019
+Personal website customized from a free bootstrap template.
 
 Author: 
 =======================================================================
 Xiaoying Riley at 3rd Wave Media (https://themes.3rdwavemedia.com/)
-
-Contact:
-=======================================================================
-Web: https://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
 
 License: 
 =======================================================================
