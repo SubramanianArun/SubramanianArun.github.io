@@ -7,7 +7,7 @@ Personal website customized from a free bootstrap template.
 
 Author: 
 =======================================================================
-Xiaoying Riley at 3rd Wave Media (https://themes.3rdwavemedia.com/)
+Xiaoying Riley at 3rd Wave Media https://themes.3rdwavemedia.com
 
 License: 
 =======================================================================
