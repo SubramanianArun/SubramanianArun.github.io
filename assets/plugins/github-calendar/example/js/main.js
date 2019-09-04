@@ -1,3 +1,3 @@
-GitHubCalendar(".calendar", "IonicaBizau", {
+GitHubCalendar(".calendar", "SubramanianArun", {
     responsive: true
 });
